@@ -1,13 +1,72 @@
-# 📊 Propfirmkey.com | Funded Trader Hub
+# Prop Firm Key | Data-Driven Trading Insights
 
-The ultimate data-driven hub for funded traders. We provide expert comparisons and tools for top Prop Firms: **TakeProfitTrader**, **MyFundedFutures**, and **Earn2Trade**. 
+[![Visit PropFirmKey.com](https://img.shields.io/badge/PropFirmKey.com-Visit%20Site-blue?style=for-the-badge)](https://propfirmkey.com)
+[![Prop Firms](https://img.shields.io/badge/Firms%20Tracked-33%2B-green?style=for-the-badge)](https://propfirmkey.com/en/firms)
+[![Best Deals](https://img.shields.io/badge/Discounts-Up%20to%2090%25%20OFF-red?style=for-the-badge)](https://propfirmkey.com)
 
-🚀 Master your drawdown, optimize your trading psychology, and find the best funding keys to succeed.
+## About — Latai Kamal
 
-### 🔗 Official Resources:
-* **Website:** [propfirmkey.com](https://propfirmkey.com)
-* **X (Twitter):** [Follow us @propfirmkey](https://x.com/propfirmkey)
-* **Instagram:** [Join us on Instagram](https://instagram.com/propfirmkey)
+I build **data-driven automation tools** for the prop trading industry. My stack revolves around **n8n**, **Gemini AI**, and custom web pipelines that keep coupon data, firm reviews, and challenge prices updated in real-time on [propfirmkey.com](https://propfirmkey.com).
 
----
-*Helping you find the right keys to unlock your trading career.*
+- **n8n workflows** that sync prop firm pricing daily
+- - **AI-powered analysis** (Gemini) for review scoring and T&C parsing
+  - - **Structured data pipelines** feeding 34+ firm profiles
+    - - **SEO automation** to surface the best prop firm deals for traders worldwide
+     
+      - > PropFirm Key is the #1 comparison platform for funded traders — verified data, real reviews, exclusive discounts.
+        >
+        > ---
+        >
+        > ## Active Prop Firm Coupons
+        >
+        > All codes verified and updated regularly. Use code **WIN** on select firms for exclusive PropFirm Key discounts.
+        >
+        > | Firm | Discount | Code | Direct Link |
+        > |------|----------|------|-------------|
+        > | My Funded Futures (MFFU) | **50% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/my-funded-futures) |
+        > | TakeProfitTrader (TPT) | **40% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/takeprofittrader) |
+        > | TheTradingPit | **20% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/thetradingpit) |
+        > | Bulenox | **90% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/bulenox) |
+        > | Earn2Trade | **60% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/earn2trade) |
+        > | PropShopTrader | **60% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/propshoptrader) |
+        > | Blue Guardian | **50% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/blue-guardian) |
+        > | Funded Futures Network | **50% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/funded-futures-network) |
+        > | TickTickTrader | **40% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/tickticktrader) |
+        > | TradeDay | **30% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/tradeday) |
+        > | FXIFY | **28% OFF** | `KEY` | [View Deal](https://propfirmkey.com/en/firms/fxify) |
+        > | ThinkCapital | **25% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/thinkcapital) |
+        > | Alpha Futures | **10% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/alpha-futures) |
+        > | Instant Funding | **10% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/instant-funding) |
+        >
+        > > Tip: Coupon codes are case-sensitive. Always verify on the firm checkout page. Updated monthly.
+        > >
+        > > ---
+        > >
+        > > ## Tech Stack
+        > >
+        > > ```
+        > > n8n (workflow automation)  -->  Sync pricing data from 34+ prop firm sites
+        > > Gemini AI                  -->  Parse T&C documents, score reviews
+        > > Next.js + Vercel           -->  propfirmkey.com front-end
+        > > Structured Data (JSON-LD)  -->  Google rich result optimization
+        > > ```
+        > >
+        > > ---
+        > >
+        > > ## Repositories
+        > >
+        > > | Repository | Description |
+        > > |------------|-------------|
+        > > | [prop-firm-comparison-database](https://github.com/propfirmkey/prop-firm-comparison-database) | Full technical comparison DB — Profit Targets, Drawdown rules, Platforms |
+        > >
+        > > ---
+        > >
+        > > ## Links
+        > >
+        > > - **Website:** [propfirmkey.com](https://propfirmkey.com)
+        > > - - **All Firms:** [propfirmkey.com/en/firms](https://propfirmkey.com/en/firms)
+        > >   - - **Reviews:** [propfirmkey.com/en/reviews](https://propfirmkey.com/en/reviews)
+        > >    
+        > >     - ---
+        > >
+        > > *Data synchronized via n8n pipelines + Gemini AI — Updated daily — PropFirm Key 2026*
