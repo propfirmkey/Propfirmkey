@@ -17,15 +17,27 @@ I build **data-driven automation tools** for the prop trading industry. My stack
         >
         > ---
         >
+        > ## 🌐 Full Ecosystem
+        >
+        > | Platform | URL | Purpose |
+        > |---|---|---|
+        > | 🏠 **Main Website** | [propfirmkey.com](https://propfirmkey.com) | Verified reviews, live coupon codes & firm database |
+        > | 🌍 **Google Site** | [PropFirm Key Hub](https://sites.google.com/view/prop-firm-promo-codes-2026) | Comparison tables & verified coupons |
+        > | 📰 **Substack** | [PropFirmKey - The Daily Edge](https://propfirmkey.substack.com) | Weekly analysis & exclusive deals |
+        > | ✍️ **Dev.to** | [dev.to/propfirmkey](https://dev.to/propfirmkey) | Technical articles & automation tutorials |
+        >
+        > **Contact:** propfirmkey@gmail.com
+        >
+        > ---
+        >
         > ## Active Prop Firm Coupons
         >
         > All codes verified and updated regularly. Use code **WIN** on select firms for exclusive PropFirm Key discounts.
         >
         > | Firm | Discount | Code | Direct Link |
-        > |------|----------|------|-------------|
-        > | My Funded Futures (MFFU) | **50% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/my-funded-futures) |
-        > | TakeProfitTrader (TPT) | **40% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/takeprofittrader) |
-        > | TheTradingPit | **20% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/thetradingpit) |
+        > |---|---|---|---|
+        > | MyFundedFutures | **50% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/my-funded-futures) |
+        > | TakeProfitTrader | **40% OFF** | `WIN` | [View Deal](https://propfirmkey.com/en/firms/takeprofittrader) |
         > | Bulenox | **90% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/bulenox) |
         > | Earn2Trade | **60% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/earn2trade) |
         > | PropShopTrader | **60% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/propshoptrader) |
@@ -38,35 +50,38 @@ I build **data-driven automation tools** for the prop trading industry. My stack
         > | Alpha Futures | **10% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/alpha-futures) |
         > | Instant Funding | **10% OFF** | `PFK` | [View Deal](https://propfirmkey.com/en/firms/instant-funding) |
         >
-        > > Tip: Coupon codes are case-sensitive. Always verify on the firm checkout page. Updated monthly.
+        > > **Tip:** Coupon codes are case-sensitive. Always verify on the firm checkout page. Updated monthly.
         > >
         > > ---
         > >
         > > ## Tech Stack
         > >
-        > > ```
-        > > n8n (workflow automation)  -->  Sync pricing data from 34+ prop firm sites
-        > > Gemini AI                  -->  Parse T&C documents, score reviews
-        > > Next.js + Vercel           -->  propfirmkey.com front-end
-        > > Structured Data (JSON-LD)  -->  Google rich result optimization
-        > > ```
+        > > | Tool | Role |
+        > > |---|---|
+        > > | **n8n** (workflow automation) | Sync pricing data from 34+ prop firm sites |
+        > > | **Gemini AI** | Parse T&C documents, score reviews |
+        > > | **Next.js + Vercel** | propfirmkey.com front-end |
+        > > | **Structured Data (JSON-LD)** | Google rich result optimization |
         > >
         > > ---
         > >
         > > ## Repositories
         > >
         > > | Repository | Description |
-        > > |------------|-------------|
+        > > |---|---|
         > > | [prop-firm-comparison-database](https://github.com/propfirmkey/prop-firm-comparison-database) | Full technical comparison DB — Profit Targets, Drawdown rules, Platforms |
         > >
         > > ---
         > >
         > > ## Links
         > >
-        > > - **Website:** [propfirmkey.com](https://propfirmkey.com)
-        > > - - **All Firms:** [propfirmkey.com/en/firms](https://propfirmkey.com/en/firms)
-        > >   - - **Reviews:** [propfirmkey.com/en/reviews](https://propfirmkey.com/en/reviews)
-        > >    
-        > >     - ---
+        > > - 🏠 Website: [propfirmkey.com](https://propfirmkey.com)
+        > > - - 📊 All Firms: [propfirmkey.com/en/firms](https://propfirmkey.com/en/firms)
+        > >   - - ⭐ Reviews: [propfirmkey.com/en/reviews](https://propfirmkey.com/en/reviews)
+        > >     - - 🌍 Google Site: [sites.google.com/view/prop-firm-promo-codes-2026](https://sites.google.com/view/prop-firm-promo-codes-2026)
+        > >       - - 📰 Substack: [propfirmkey.substack.com](https://propfirmkey.substack.com)
+        > >         - - ✍️ Dev.to: [dev.to/propfirmkey](https://dev.to/propfirmkey)
+        > >          
+        > >           - ---
         > >
         > > *Data synchronized via n8n pipelines + Gemini AI — Updated daily — PropFirm Key 2026*
