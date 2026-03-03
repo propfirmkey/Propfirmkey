@@ -27,6 +27,7 @@ I build **data-driven automation tools** for the prop trading industry. My stack
         > | ✍️ **Dev.to** | [dev.to/propfirmkey](https://dev.to/propfirmkey) | Technical articles & automation tutorials |
         > | ☁️ **Cloudflare Pages** | [propfirmkey-status.pages.dev](https://propfirmkey-status.pages.dev) | Live status mirror & deals dashboard |
         > | 🤗 **Hugging Face** | [huggingface.co/propfirmkey](https://huggingface.co/propfirmkey) | Prop firm comparison datasets |
+| 🏢 **Microsoft Learn** | [learn.microsoft.com/users/propfirmkey-2654](https://learn.microsoft.com/en-us/users/propfirmkey-2654/) | Data & Infrastructure profile (DA 99) |
         >
         > **Contact:** propfirmkey@gmail.com
         >
