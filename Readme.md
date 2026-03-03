@@ -25,6 +25,8 @@ I build **data-driven automation tools** for the prop trading industry. My stack
         > | 🌍 **Google Site** | [PropFirm Key Hub](https://sites.google.com/view/prop-firm-promo-codes-2026) | Comparison tables & verified coupons |
         > | 📰 **Substack** | [PropFirmKey - The Daily Edge](https://propfirmkey.substack.com) | Weekly analysis & exclusive deals |
         > | ✍️ **Dev.to** | [dev.to/propfirmkey](https://dev.to/propfirmkey) | Technical articles & automation tutorials |
+        > | ☁️ **Cloudflare Pages** | [propfirmkey-status.pages.dev](https://propfirmkey-status.pages.dev) | Live status mirror & deals dashboard |
+        > | 🤗 **Hugging Face** | [huggingface.co/propfirmkey](https://huggingface.co/propfirmkey) | Prop firm comparison datasets |
         >
         > **Contact:** propfirmkey@gmail.com
         >
