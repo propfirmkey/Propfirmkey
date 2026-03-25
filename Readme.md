@@ -88,3 +88,16 @@ I build **data-driven automation tools** for the prop trading industry. My stack
         > >           - ---
         > >
         > > *Data synchronized via n8n pipelines + Gemini AI — Updated daily — PropFirm Key 2026*
+
+
+---
+
+## 🕸️ PropFirmKey Ecosystem — DA 90+ Pillars
+
+[![Retool App](https://img.shields.io/badge/Retool-Live%20Comparison%20App-purple?style=for-the-badge&logo=retool)](https://propfirmkey.retool.com/embedded/public/ca17f75e-4977-4d9c-b404-d1014c94b434/prop-firm-comparison)
+[![Postman API Docs](https://img.shields.io/badge/Postman-API%20Documentation-orange?style=for-the-badge&logo=postman)](https://documenter.getpostman.com/view/53497986/2sBXiknBJU)
+[![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace-Prop%20Firm%20Dataset-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/propfirmkey)
+[![Airtable Directory](https://img.shields.io/badge/Airtable-Public%20Directory-blue?style=for-the-badge&logo=airtable)](https://airtable.com/app3RmGLeyOvVT2oO/shrv9ultsNgRK291O)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/propfirmkey)
+
+> All platforms are interconnected and synchronized — forming PropFirmKey's data infrastructure web for maximum SEO authority and data integrity.
